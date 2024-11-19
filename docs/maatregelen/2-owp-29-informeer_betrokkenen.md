@@ -40,11 +40,7 @@ Stel bijvoorbeeld de volgende vragen:
 | Wanneer wordt deze informatie gebruikt? | Ga na in welke fase van de levenscyclus de gewenste informatie over de werking of inzet van het algoritme wordt gebruikt. Hoe verschilt de informatiebehoefte in elke fase van de levenscyclus? |
 | Wie is er verantwoordelijk voor de informatieverstrekking? | Bepaal wie er informatie over het algoritme moet ophalen, en wie er voor die informatie kan zorgen. |
 
-Maak in het vaststellen van de informatiebehoeft onderscheid tussen transparantie, uitlegbaarheid en interpreteerbaarheid. 
-
-Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. 
-
-Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie.
+Maak in het vaststellen van de informatiebehoeft onderscheid tussen transparantie, uitlegbaarheid en interpreteerbaarheid. Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie.
 
 Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. Hierin kunnen zaken worden opgenomen als:
 
