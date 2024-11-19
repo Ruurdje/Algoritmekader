@@ -1,5 +1,5 @@
 ---
-title: Pas uitlegbaarheidstechnieken toe.
+title: Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze.
 id: urn:nl:ak:mtr:owp-07
 toelichting: Uitlegbaarheidstechnieken dragen bij aan het transparant maken van de werking van een algoritme.
 vereiste:
@@ -22,7 +22,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Pas uitlegbaarheidstechnieken toe.
+Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze.
 
 ## Toelichting
 Uitlegbaarheidstechnieken dragen bij aan het transparant maken van de werking van een algoritme.
@@ -32,11 +32,14 @@ Er zijn veel technieken vindbaar om de werking en keuzes van een algoritme beter
 
 **Veiligheid**
 
-Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven.   Houd rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures. 
+Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven. Houd rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures. 
 
 **Transparency by design** 
 
 Een manier om transparantie te bewerkstelligen is door het algoritme volgens het transparency-by-design gedachtegoed te ontwikkelen. Dit gedachtegoed is geïnspireerd door het privacy by design raamwerk. Door dit gedachtegoed toe te passen kan je ervoor zorgen dat transparantie in het volledige ontwikkelproces, en dus ook bij het ontwerp, wordt meegenomen. 
+
+**Evaluatie en validatie**
+Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikbaarheids- en veiligheidsvereisten bij betrokkenen, bijvoorbeeld de gebruikers. Valideer in ieder geval dat de uitkomst van het algoritme begrijpelijk genoeg is voor gebruiker om hier op een verantwoorde wijze mee te werken. 
 
 ## Bijbehorende vereiste(n)
 
