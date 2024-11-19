@@ -32,6 +32,7 @@ Stel duidelijke werkinstructies op voor de medewerkers die het algoritme gaan ge
 
 ## Toelichting
 -	Maak keuzes rondom de rol van het systeem in de werkwijze van medewerkers.
+-	Maak kenbaar wat de mogelijkheden en beperkingen zijn bij het gebruik maken van het betreffende algoritme.
 -	Gebruik duidelijke werkinstructies en protocollen om te voorkomen dat beslissingen, gebaseerd op de output van het systeem, door (automation) bias worden beïnvloed.
 -	Stel een structuur op voor het melden van mogelijke problemen die medewerkers ervaren met het systeem.
 -	Opleiding van medewerkers over:
