@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Spreek af hoe medewerkers omgaan met het algoritme of AI-systeem 
+title: Spreek af hoe medewerkers omgaan met het algoritme.
 id: urn:nl:ak:mtr:imp-05
 # geef hier een korte toelichting van deze maatregel
 toelichting: Stel duidelijke werkinstructies op voor de medewerkers die het algoritme gaan gebruiken. 
@@ -16,6 +16,7 @@ levenscyclus:
 onderwerp: 
 - governance
 - menselijke-controle
+- transparantie
 rollen:
 - projectleider
 - beleid-en-advies
@@ -58,15 +59,12 @@ Stel duidelijke werkinstructies op voor de medewerkers die het algoritme gaan ge
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.07](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-- [Handreiking non-discriminatie by design](https://open.overheid.nl/documenten/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/pdf) 
-- [Impact Assessment Mensenrechten en Algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) 
 - [Ethics Guidelines of Trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1)
-
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 
-Bias, discriminatie, de facto automatische besluitvorming.
+Het algoritme wordt onjuist gebruikt of verkeerd geïnterpreteerd door gebruikers, waardoor onjuiste belissingen of besluiten worden genomen. 
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
