@@ -41,6 +41,9 @@ Een manier om transparantie te bewerkstelligen is door het algoritme volgens het
 **Evaluatie en validatie**
 Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikbaarheids- en veiligheidsvereisten bij betrokkenen, bijvoorbeeld de gebruikers. Valideer in ieder geval dat de uitkomst van het algoritme begrijpelijk genoeg is voor gebruiker om hier op een verantwoorde wijze mee te werken. 
 
+**Besluitvorming**
+Onderzoek in hoeverre de uitlegbaarheidstechnieken kunnen bijdragen aan het formeleren van een motivering bij de totstandkoming van een besluit. Denk bijvoorbeeld aan het koppelen van de output van het algoritme aan het zaakdossier, zodat een belanghebbende deze ontvangen bij het opvragen van diens dossier, of om deze output of informatie hierover een plek te geven in de beschikking. 
+
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
