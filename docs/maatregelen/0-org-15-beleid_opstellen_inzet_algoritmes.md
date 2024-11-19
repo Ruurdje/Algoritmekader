@@ -30,11 +30,11 @@ Er wordt beschreven welke stappen worden gezet om algoritmes op een verantwoorde
 
 Er is beschreven welke instrumenten/hulpmiddelen moeten worden ingezet om te voldoen aan de vereisten die gelden voor algoritmes.
 
-Het beleid bevat een communicatiestrategie over hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie en welke kanalen hiervoor kunnen worden gebruikt. 
+Het beleid bevat een communicatiestrategie over hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie en welke kanalen hiervoor kunnen worden gebruikt. Hierbij kan worden gedacht aan het Algoritmeregister of een verwerkingsregister. 
 
-Er is beschreven welke informatie over welke type algoritmes wordt gedeeld met betrokkenen als algoritmes worden ingezet door de organisatie. 
+Er is beschreven welke informatie over welke type algoritmes wordt gecommuniceerd met betrokkenen als algoritmes worden ontwikkeld of gebruikt door de organisatie. 
 
-Dit beleidsdocument is beschikbaar voor alle geïnteresseerden. 
+Dit beleidsdocument is beschikbaar en toegankelijk voor alle geïnteresseerden. 
 
 ## Bronnen
 Algoritmekader
