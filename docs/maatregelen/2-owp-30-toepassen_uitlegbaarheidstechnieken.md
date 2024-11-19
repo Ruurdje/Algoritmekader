@@ -3,6 +3,7 @@ title: Pas uitlegbaarheidstechnieken toe.
 id: urn:nl:ak:mtr:owp-07
 toelichting: Uitlegbaarheidstechnieken dragen bij aan het transparant maken van de werking van een algoritme.
 vereiste:
+- aia-08-transparantie-aan-gebruiksverantwoordelijken
 - aia-26-recht-op-uitleg-ai-besluiten
 - awb-02-motiveringsbeginsel
 levenscyclus:
