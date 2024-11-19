@@ -28,7 +28,7 @@ Stel vast welke betrokkenen geïnformeerd moeten worden over de ontwikkeling en 
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-Welke informatie over algoritmes relevant, is verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is.
+Welke informatie over algoritmes relevant, is verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is. Raadpleeg hierbij al vastgestelde beleidskaders, waarin is beschreven welke informatie in welke gevallen moet worden gecommuniceerd. 
 
 Stel bijvoorbeeld de volgende vragen:
 
@@ -47,6 +47,8 @@ Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wann
 Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie.
 
 Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. 
+
+Overleg regelmatig met betrokkenen en [belanghebbenden](1-pba-04-betrek-belanghebbenden.md).
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
