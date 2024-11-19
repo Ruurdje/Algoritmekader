@@ -36,7 +36,7 @@ De keuzes en aannames die zijn gemaakt en gedaan moeten worden beschreven en toe
 - [Afdeling 3.7 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&z=2024-09-01&g=2024-09-01)
 - Jurisprudentie over AERIUS (ABRvS 18 juli 2018, ECLI:NL:RVS:2018:2454), Hof van Justitie C-274/18
 - [Position Paper Transparantieverplichting voor overheid bij gebruik algoritmes | College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/bf15558a-1b17-43d7-a60e-df9ff8847491)
-- 
+
 
 ## Wanneer van toepassing?
 
