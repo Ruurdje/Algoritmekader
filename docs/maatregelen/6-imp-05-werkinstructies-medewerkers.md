@@ -7,6 +7,7 @@ toelichting: Stel duidelijke werkinstructies op voor de medewerkers die het algo
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
+- aia-28-transparantieverplichtingen
 - grw-02-non-discriminatie
 - aia-09-menselijk-toezicht
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
