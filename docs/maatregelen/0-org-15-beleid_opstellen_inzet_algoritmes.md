@@ -22,15 +22,22 @@ hide:
 Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie. 
 
 ## Toelichting
-Een duidelijk beleid van organisaties over de inzet van algoritmes, draagt bij aan het gaan voldoen als organisatie aan de voorwaarden om dit op een verantwoorde manier te doen.
+Een duidelijk beleid van organisaties over de inzet van algoritmes, draagt bij aan het gaan voldoen als organisatie aan de voorwaarden om dit op een verantwoorde manier te doen. Het is van belang dat in het beleidsdocument is beschreven hoe algoritmes bijdragen aan het realiseren van de organisatiedoelstellingen. Hier kan worden gedacht aan:
 
-Het is van belang dat in het beleidsdocument is beschreven hoe algoritmes bijdragen aan het realiseren van de organisatiedoelstellingen.
+Het beschrijven van de stappen die moeten woorden gezet om algoritmes op een verantwoorde wijze in te gaan zetten, afhankelijk van de bijbehorende risicoclassificatie.  
 
-Er wordt beschreven welke stappen worden gezet om algoritmes op een verantwoorde wijze in te gaan zetten. 
-
-Er is beschreven welke instrumenten/hulpmiddelen moeten worden ingezet om te voldoen aan de vereisten die gelden voor algoritmes.
-
-Het beleid bevat een communicatiestrategie over hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie en welke kanalen hiervoor kunnen worden gebruikt. Hierbij kan worden gedacht aan het Algoritmeregister of een verwerkingsregister. 
+Het beschrijven welke instrumenten/hulpmiddelen in welke gevallen moeten worden ingezet om te voldoen aan de vereisten die gelden voor algoritmes. Hierbij kan worden gedacht aan:
+- Een Impact Assessment Mensenrechten en Algoritmes.
+- Een Data Protection Impact Assessment.
+- Het hanteren van inkoopvoorwaarden.
+  
+Hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie en welke **kanalen** hiervoor kunnen worden gebruikt. Hierbij kan worden gedacht aan het:
+- Algoritmeregister
+- Een algemene pagina op de website.
+- Het verwerkingsregister
+- Een algemene pagina op de website.
+- Een intern registratiesysteem. 
+- In welke gevallen een (openbaar) besluit wordt genomen door het bestuur over de inzet van een algoritme. 
 
 Er is beschreven welke informatie over welke type algoritmes wordt gecommuniceerd met betrokkenen als algoritmes worden ontwikkeld of gebruikt door de organisatie. 
 
